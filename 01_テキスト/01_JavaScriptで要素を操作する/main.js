@@ -13,7 +13,6 @@ for (const button of buttons.children) {
 // 要素を変更する - textContent
 const elementTextContent = document.getElementById("element-textContent")
 elementTextContent.textContent = "こんばんは"
-
 // 要素を変更する - style
 const elementStyle = document.getElementById("element-style")
 elementStyle.style.fontWeight = "bold"
